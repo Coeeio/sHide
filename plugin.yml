@@ -1,0 +1,7 @@
+name: sHide
+author: Coelho
+main: coelho.coelho.Hide
+
+version: 1.0
+commands:
+    hide:
